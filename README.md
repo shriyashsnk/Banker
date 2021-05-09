@@ -1,2 +1,4 @@
-# Banker
-Banker is simple banking system where you can transfer amount from one account to another..and also can donate to ngo's . Its a fully Dynamic website.
+# Live Demo
+ http://bit.ly/sktransfers
+
+Its Fully working Dynamic website used for educational purpose
